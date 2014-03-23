@@ -15,4 +15,7 @@ Just run:
     cd neo4j-experiements
     ./doit.sh
 
-Also check out https://baach.de/Members/jhb/dbpedia-and-neo4j-first-steps-ii
+Also check out:  
+https://baach.de/Members/jhb/dbpedia-and-neo4j-first-steps-ii
+
+https://baach.de/Members/jhb/neo4j-performance-compared-to-mysql/view
